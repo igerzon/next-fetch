@@ -227,3 +227,33 @@
     transform: rotate(0deg);
   }
 }
+
+
+/* --------------------- */
+
+.nav {
+  background-color: #333333;
+  display: flex;
+  flex-direction: row;
+  
+
+}
+
+
+.ul {
+  text-align: center;
+ 
+}
+
+
+.li{
+  
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+.li:hover {
+  background-color: #111;
+}
